@@ -1,0 +1,7 @@
+{
+  "maxCounters": 10,
+  "maxCounterNameLength": 20,
+  "maxCounterValue": 20,
+  "minCounterValue": 0,
+  "storeKey": "heroes.counter"
+}
